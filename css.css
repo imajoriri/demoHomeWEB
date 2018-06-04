@@ -1,0 +1,13 @@
+.my-home{
+  margin: auto;
+  height: 400px;
+  width: 400px
+}
+
+.filter {
+ background: #000;
+}
+ 
+.filter-img {
+ display: block;
+}
